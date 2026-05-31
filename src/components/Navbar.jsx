@@ -2,6 +2,7 @@ import '../index.css'
 import { Link } from 'react-router-dom'
 
 
+
 export function Navbar() {
 
     return (

@@ -68,13 +68,13 @@
 
   h2 {
     font-weight: 600;
-    font-size: clamp(2rem, 4.25vw + 1rem, 6rem);
+    font-size: clamp(1.5rem, 4.25vw + 1rem, 5rem);
   }
 
   h3 {
     font-style: semi-bold;
     font-weight: 600;
-    font-size: clamp(1.25rem, 3.125vw + 1rem, 3rem);
+    font-size: 1.25rem;
   }
 
   p {

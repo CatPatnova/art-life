@@ -7,13 +7,14 @@ export function Footer() {
 
     return (
         <>
-            <div className='bg-black text-white h-screen'>
-                <Marquee repeat={6} className='font-semibold w-screen'>
+            <div className='bg-black text-white'>
+                <Marquee repeat={6} className='font-semibold w-screen justify-center'>
+                    <span>NEWSLETTER+++</span>
                     <span>NEWSLETTER+++</span>
                 </Marquee>
                 <div className='mt-15 mx-10 gap-10'>
                     <div className='flex-row items-center justify-between'>
-                        <h3 className='w-1/2'>DESIGN NEWS TO YOUR INBOX</h3>
+                        <h2 className='w-1/2'>DESIGN NEWS TO YOUR INBOX</h2>
                         <div className='flex-row gap-2.5 h-fit items-center'>
                             <input type="email" placeholder='E-Mail' className='bg-white text-black text-[0.75rem] py-1.75 px-2' />
                             <Button className='bg-white text-black rounded-none p-3 hover:bg-gray-200 text-[0.75rem]'>SIGN UP</Button>

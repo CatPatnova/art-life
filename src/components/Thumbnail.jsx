@@ -46,3 +46,27 @@ export function AuthorThumbnail({ src, name, job, city }) {
         </div>
     )
 }
+
+export function ArticleThumbnail({ date, label, src, title, desc, author, dur }) {
+    return (
+        <div className='border border-black w-1/3 p-10 gap-2.5'>
+            <div className='flex-row justify-between items-center'>
+                <p>{date}</p>
+                <p className='rounded-full border border-black h-fit w-fit px-2.5 py-1.5 text-center'>{label}</p>
+            </div>
+            <img src={src} />
+            <h3>{title}</h3>
+            <p>{desc}</p>
+            <div className='flex-row space-x-5'>
+                <div className='flex-row gap-2.5'>
+                    <p className='font-semibold'>Text</p>
+                    <p>{author}</p>
+                </div>
+                <div className='flex-row gap-2.5'>
+                    <p className='font-semibold'>Duration</p>
+                    <p>{dur}</p>
+                </div>
+            </div>
+        </div>
+    )
+}

@@ -63,7 +63,7 @@
   h1 {
     text-transform: uppercase;
     font-weight: 600;
-    font-size: clamp(6rem, 12.5vw + 1rem, 20rem);
+    font-size: clamp(6rem, 16vw + 1rem, 20rem);
   }
 
   h2 {

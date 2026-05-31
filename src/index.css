@@ -1,0 +1,48 @@
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600,700&display=swap');
+@import "tailwindcss";
+
+
+:root {
+  --General-Sans: 'General Sans', sans-serif;
+  overflow: hidden;
+}
+
+@layer base {
+  body {
+    background-color: #fff;
+    color: #000;
+    font-family: var(--General-Sans);
+  }
+
+  div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h1 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: clamp(6rem, 12.5vw + 1rem, 20rem);
+  }
+
+  h2 {
+    font-weight: 600;
+    font-size: clamp(2rem, 4.25vw + 1rem, 6rem);
+  }
+
+  h3 {
+    font-style: semi-bold;
+    font-weight: 600;
+    font-size: clamp(1.25rem, 3.125vw + 1rem, 3rem);
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  Link {
+    font-weight: 400;
+    font-size: 1rem;
+  }
+}

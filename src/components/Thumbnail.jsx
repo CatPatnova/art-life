@@ -54,7 +54,9 @@ export function ArticleThumbnail({ date, label, src, title, desc, author, dur })
                 <p>{date}</p>
                 <p className='rounded-full border border-black h-fit w-fit px-2.5 py-1.5 text-center'>{label}</p>
             </div>
-            <img src={src} />
+            <Link to="/Magazines/Post">
+                <img className='h-100' src={src} />
+            </Link>
             <h3>{title}</h3>
             <p>{desc}</p>
             <div className='flex-row space-x-5'>

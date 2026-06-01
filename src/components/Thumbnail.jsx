@@ -72,3 +72,25 @@ export function ArticleThumbnail({ date, label, src, title, desc, author, dur })
         </div>
     )
 }
+
+export function AuthorArticle({ src, title, date, read }) {
+    return (
+        <div className='border border-black flex-row p-5 items-center gap-5 w-1/2'>
+            <img src={src} className='h-37.5' />
+            <div className='gap-8'>
+                <h3 className='text-3xl'>{title}</h3>
+                <div className='flex-row gap-3'>
+                    <div className='flex-row gap-2.5'>
+                        <p className='font-semibold'>Date</p>
+                        <p>{date}</p>
+                    </div>
+                    <div className='flex-row gap-2.5'>
+                        <p className='font-semibold'>Read</p>
+                        <p>{read}</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    )
+}

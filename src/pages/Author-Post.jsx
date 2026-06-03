@@ -1,6 +1,6 @@
-import '../index.css'
-import { Link } from 'react-router-dom'
 import { AuthorArticle } from '@/components/Thumbnail'
+import { Link } from 'react-router-dom'
+import '../index.css'
 
 function AuthorPost() {
     return (

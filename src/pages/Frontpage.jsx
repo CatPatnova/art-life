@@ -24,7 +24,7 @@ function Frontpage() {
                     label='label'
                 />
             </div>
-            <img src="src/assets/dont-close-your-eyes.svg" className='w-full h-1/6 mt-10' />
+            <img src="./assets/dont-close-your-eyes.svg" className='w-full h-1/6 mt-10' />
             <div className='mt-15 gap-15  flex-col md:flex-row'>
                 <div className='gap-8'>
                     <Article2

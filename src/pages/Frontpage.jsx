@@ -5,6 +5,7 @@ import { Article, Article2 } from '@/components/Article'
 import { Button } from '@/components/ui/button'
 import { PodcastThumbnail, AuthorThumbnail } from '@/components/Thumbnail'
 
+
 function Frontpage() {
     return (
         <div className='items-center w-100vw mx-15'>

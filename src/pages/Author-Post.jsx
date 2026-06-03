@@ -8,7 +8,7 @@ function AuthorPost() {
             <div className='flex-row justify-between w-full'>
                 <Link to='/Authors'>
                     <div className='flex-row items-center'>
-                        <img src="src/assets/arrow-left.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-left.svg" className='h-4 w-6 ' />
                         <p className='font-semibold'>GO BACK</p>
                     </div>
                 </Link>
@@ -18,14 +18,14 @@ function AuthorPost() {
                 <div className='flex-row'>
                     <div>
                         <div className='flex-row items-center space-x-5 border-b border-black pb-10'>
-                            <img src="src/assets/Louise.svg" className='h-87.5 w-87.5' />
+                            <img src="assets/Louise.svg" className='h-87.5 w-87.5' />
                         </div>
                         <div className='flex-row justify-between mt-5'>
                             <p className='font-semibold'>FOLLOW</p>
                             <div className='flex-row gap-2.5'>
-                                <a href='https://www.instagram.com'><img src="src/assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
-                                <a href='https://www.twitter.com'><img src="src/assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
-                                <a href='https://www.youtube.com'><img src="src/assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.instagram.com'><img src="assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.twitter.com'><img src="assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.youtube.com'><img src="assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
                             </div>
                         </div>
                     </div>
@@ -44,13 +44,13 @@ function AuthorPost() {
                 <h2>Articles by Louise Jensen</h2>
                 <div className='flex-row'>
                     <AuthorArticle
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         date='16. March 2022'
                         read='10 Min'
                     />
                     <AuthorArticle
-                        src='src/assets/an-indestructible-hope.svg'
+                        src='assets/an-indestructible-hope.svg'
                         title='An indestructible hope'
                         date='16. March 2022'
                         read='10 Min'
@@ -58,13 +58,13 @@ function AuthorPost() {
                 </div>
                 <div className='flex-row'>
                     <AuthorArticle
-                        src='src/assets/through-the-eyes-of-street-artists.svg'
+                        src='assets/through-the-eyes-of-street-artists.svg'
                         title='The chains of our lives'
                         date='16. March 2022'
                         read='10 Min'
                     />
                     <AuthorArticle
-                        src='src/assets/keep-on-smiling.svg'
+                        src='assets/keep-on-smiling.svg'
                         title='Keep on smiling'
                         date='16. March 2022'
                         read='10 Min'

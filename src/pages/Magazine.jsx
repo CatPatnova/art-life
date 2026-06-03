@@ -20,7 +20,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -29,7 +29,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -38,7 +38,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -49,7 +49,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -58,7 +58,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -67,7 +67,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -78,7 +78,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -87,7 +87,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -96,7 +96,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -107,7 +107,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -116,7 +116,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -125,7 +125,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -136,7 +136,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -145,7 +145,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -154,7 +154,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -163,13 +163,13 @@ function Magazine() {
                 </div>
                 <div className='flex-row items-center mt-15 w-full justify-end'>
                     <p className='font-semibold'>NEXT</p>
-                    <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                    <img src="assets/arrow-right.svg" className='h-4 w-6 ' />
                 </div>
                 <div className='flex-row my-15'>
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/hope-dies-last.svg'
+                        src='assets/hope-dies-last.svg'
                         title='Hope dies last'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -178,7 +178,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='ART'
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='assets/the-devil-is-the-details.svg'
                         title="The devil is the details"
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -187,7 +187,7 @@ function Magazine() {
                     <ArticleThumbnail
                         date='16. March 2022'
                         label='SCULPTURES'
-                        src='src/assets/the-best-art-museums.svg'
+                        src='assets/the-best-art-museums.svg'
                         title='The best art museums'
                         desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'

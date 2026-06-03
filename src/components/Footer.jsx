@@ -56,10 +56,10 @@ export function Footer() {
                     <div className='flex-row items-center justify-between mb-5'>
                         <p className='text-gray-400 text-[0.75rem]'>© Made by Pawel Gola -  Powered by Webflow</p>
                         <div className='flex-row space-x-3'>
-                            <a href='https://www.instagram.com'><img src="src/assets/instagram-white-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://www.twitter.com'><img src="src/assets/twitter-white-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://www.youtube.com'><img src="src/assets/youtube-white-ico.svg" className='w-6 h-6' /></a>
-                            <a href='#'><img src="src/assets/rss-white-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.instagram.com'><img src="assets/instagram-white-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.twitter.com'><img src="assets/twitter-white-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.youtube.com'><img src="assets/youtube-white-ico.svg" className='w-6 h-6' /></a>
+                            <a href='#'><img src="assets/rss-white-ico.svg" className='w-6 h-6' /></a>
                         </div>
                     </div>
 

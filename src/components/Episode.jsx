@@ -21,7 +21,7 @@ export function Episode({ num, src, title, date, dur }) {
                 <Link to='/Podcasts/Post'>
                     <div className='flex-row items-center'>
                         <p className='font-semibold'>LISTEN</p>
-                        <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-right.svg" className='h-4 w-6 ' />
                     </div>
                 </Link>
             </div>
@@ -49,7 +49,7 @@ export function Author({ src, name, job, city }) {
                 <Link to='/Authors/About'>
                     <div className='flex-row items-center'>
                         <p className='font-semibold'>ABOUT</p>
-                        <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-right.svg" className='h-4 w-6 ' />
                     </div>
                 </Link>
             </div>

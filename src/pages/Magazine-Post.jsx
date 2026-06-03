@@ -8,7 +8,7 @@ function MagazinePost() {
             <div className='flex-row justify-between w-full'>
                 <Link to='/Magazines'>
                     <div className='flex-row items-center'>
-                        <img src="src/assets/arrow-left.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-left.svg" className='h-4 w-6 ' />
                         <p className='font-semibold'>GO BACK</p>
                     </div>
                 </Link>
@@ -35,11 +35,11 @@ function MagazinePost() {
                 </div>
                 <p className='rounded-full border border-black h-fit w-fit px-2.5 py-1.5 text-center'>LABEL</p>
             </div>
-            <img src="src/assets/hope-dies-last-large.svg" className='mt-10' />
+            <img src="assets/hope-dies-last-large.svg" className='mt-10' />
             <div className='flex-row border-b border-black py-15'>
                 <div className='w-2/3'>
                     <div className='flex-row items-center space-x-5 border-b border-black pb-10'>
-                        <img src="src/assets/Jakob.svg" />
+                        <img src="assets/Jakob.svg" />
                         <h2 className='text-7xl'>Jakob Gronberg</h2>
                     </div>
                     <div className='flex-row justify-between mt-10'>
@@ -53,9 +53,9 @@ function MagazinePost() {
                     <div className='flex-row justify-between mt-5'>
                         <p className='font-semibold'>Share</p>
                         <div className='flex-row gap-2.5'>
-                            <a href='https://www.instagram.com'><img src="src/assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://www.twitter.com'><img src="src/assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://www.youtube.com'><img src="src/assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.instagram.com'><img src="assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.twitter.com'><img src="assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.youtube.com'><img src="assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@ function MagazinePost() {
                 <Link to='/Magazines'>
                     <div className='flex-row items-center'>
                         <p className='font-semibold'>SEE ALL</p>
-                        <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-right.svg" className='h-4 w-6 ' />
                     </div>
                 </Link>
             </div>
@@ -104,7 +104,7 @@ function MagazinePost() {
                 <ArticleThumbnail
                     date='16. March 2022'
                     label='ART'
-                    src='src/assets/hope-dies-last.svg'
+                    src='assets/hope-dies-last.svg'
                     title='Hope dies last'
                     desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                     author='Jakob Gronberg'
@@ -113,7 +113,7 @@ function MagazinePost() {
                 <ArticleThumbnail
                     date='16. March 2022'
                     label='ART'
-                    src='src/assets/the-devil-is-the-details.svg'
+                    src='assets/the-devil-is-the-details.svg'
                     title="The devil is the details"
                     desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                     author='Jakob Gronberg'
@@ -122,7 +122,7 @@ function MagazinePost() {
                 <ArticleThumbnail
                     date='16. March 2022'
                     label='SCULPTURES'
-                    src='src/assets/the-best-art-museums.svg'
+                    src='assets/the-best-art-museums.svg'
                     title='The best art museums'
                     desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                     author='Jakob Gronberg'

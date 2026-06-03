@@ -29,7 +29,7 @@ function Frontpage() {
             <div className='mt-15 gap-15  flex-col md:flex-row'>
                 <div className='gap-8'>
                     <Article2
-                        src='src/assets/hope-dies-last.svg'
+                        src='/assets/hope-dies-last.svg'
                         title='Hope dies last'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -38,7 +38,7 @@ function Frontpage() {
                         label='ART'
                     />
                     <Article2
-                        src='src/assets/the-best-art-museums.svg'
+                        src='/assets/the-best-art-museums.svg'
                         title='The best art museums'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -47,7 +47,7 @@ function Frontpage() {
                         label='SCULPTURES'
                     />
                     <Article2
-                        src='src/assets/the-devil-is-the-details.svg'
+                        src='/assets/the-devil-is-the-details.svg'
                         title='The devil is the details'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -56,7 +56,7 @@ function Frontpage() {
                         label='ART'
                     />
                     <Article2
-                        src='src/assets/an-indestructible-hope.svg'
+                        src='/assets/an-indestructible-hope.svg'
                         title='An indestructible hope'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -65,7 +65,7 @@ function Frontpage() {
                         label='ART'
                     />
                     <Article2
-                        src='src/assets/street-art-festival.svg'
+                        src='/assets/street-art-festival.svg'
                         title='Street art festival'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -74,7 +74,7 @@ function Frontpage() {
                         label='STREET ART'
                     />
                     <Article2
-                        src='src/assets/through-the-eyes-of-street-artists.svg'
+                        src='/assets/through-the-eyes-of-street-artists.svg'
                         title='Through the eyes of street artists'
                         content='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.'
                         author='Jakob Gronberg'
@@ -85,14 +85,14 @@ function Frontpage() {
                     <Link to="/Magazines">
                         <div className='flex-row items-center mt-7'>
                             <p className='font-semibold'>ALL ARTICLES</p>
-                            <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                            <img src="/assets/arrow-right.svg" className='h-4 w-6 ' />
                         </div>
                     </Link>
                 </div>
                 <div>
                     <h3>PRINTMAGAZINE</h3>
                     <h2>03/2022</h2>
-                    <img src="src/assets/magazin-cover.svg" className='max-w-92 max-h-116' />
+                    <img src="/assets/magazin-cover.svg" className='max-w-92 max-h-116' />
                     <Button className='rounded-none w-fit p-6'>BUTTON</Button>
                     <p className='font-semibold mt-15'>MOST POPULAR</p>
                     <div className='border-b border-black flex-row gap-7'>
@@ -141,26 +141,26 @@ function Frontpage() {
                     <Link to="/Podcasts">
                         <div className='flex-row items-center'>
                             <p className='font-semibold'>ALL EPISODES</p>
-                            <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                            <img src="/assets/arrow-right.svg" className='h-4 w-6 ' />
                         </div>
                     </Link>
                 </div>
 
                 <div className='flex-row my-25'>
                     <PodcastThumbnail
-                        src='src/assets/podcast-cover1.svg'
+                        src='/assets/podcast-cover1.svg'
                         title="The Problem of today's cultural development"
                         date='16.06.2022'
                         duration='1h 20 Min'
                     />
                     <PodcastThumbnail
-                        src='src/assets/podcast-cover2.svg'
+                        src='/assets/podcast-cover2.svg'
                         title="The hidden messages of Jack Nielson"
                         date='16.06.2022'
                         duration='60 Min'
                     />
                     <PodcastThumbnail
-                        src='src/assets/podcast-cover3.svg'
+                        src='/assets/podcast-cover3.svg'
                         title="Behind the scenes of the street art culture"
                         date='16.06.2022'
                         duration='45 Min'
@@ -173,20 +173,20 @@ function Frontpage() {
                         <Link to="/Podcasts">
                             <div className='flex-row items-center'>
                                 <p className='font-semibold'>ALL AUTHORS</p>
-                                <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                                <img src="/assets/arrow-right.svg" className='h-4 w-6 ' />
                             </div>
                         </Link>
                     </div>
                     <div className='mt-15'>
                         <div className='flex-row items-center justify-center'>
                             <AuthorThumbnail
-                                src="src/assets/Jakob.svg"
+                                src="/assets/Jakob.svg"
                                 name="Jakob Grønberg"
                                 job="Artist"
                                 city="Berlin"
                             />
                             <AuthorThumbnail
-                                src="src/assets/Louise.svg"
+                                src="/assets/Louise.svg"
                                 name="Louise Jensen"
                                 job="Artist"
                                 city="Stockholm"
@@ -194,13 +194,13 @@ function Frontpage() {
                         </div>
                         <div className='flex-row items-center justify-center'>
                             <AuthorThumbnail
-                                src="src/assets/Anne.svg"
+                                src="/assets/Anne.svg"
                                 name="Anne Henry"
                                 job="Photographer"
                                 city="New York"
                             />
                             <AuthorThumbnail
-                                src="src/assets/Anna.svg"
+                                src="/assets/Anna.svg"
                                 name="Anna Nielsen"
                                 job="Columnist"
                                 city="Copenhagen"
@@ -208,13 +208,13 @@ function Frontpage() {
                         </div>
                         <div className='flex-row items-center justify-center'>
                             <AuthorThumbnail
-                                src="src/assets/Jane.svg"
+                                src="/assets/Jane.svg"
                                 name="Jane Cooper"
                                 job="Artist"
                                 city="Berlin"
                             />
                             <AuthorThumbnail
-                                src="src/assets/Cristofer.svg"
+                                src="/assets/Cristofer.svg"
                                 name="Cristofer Vaccaro"
                                 job="Artist"
                                 city="Lisbon"

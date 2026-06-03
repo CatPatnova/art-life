@@ -8,7 +8,7 @@ function PodcastPost() {
             <div className='flex-row justify-between w-full'>
                 <Link to='/Podcasts'>
                     <div className='flex-row items-center'>
-                        <img src="src/assets/arrow-left.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-left.svg" className='h-4 w-6 ' />
                         <p className='font-semibold'>GO BACK</p>
                     </div>
                 </Link>
@@ -16,13 +16,13 @@ function PodcastPost() {
             </div>
             <div className='flex-row justify-evenly'>
                 <div>
-                    <img src="src/assets/podcast-cover1.svg" className='h-87.5' />
+                    <img src="assets/podcast-cover1.svg" className='h-87.5' />
                     <div className='flex-row w-full justify-between mt-10 mb-20'>
                         <p className='font-semibold'>Listen On</p>
                         <div className='flex-row gap-2.5'>
-                            <a href='https://www.spotify.com'><img src="src/assets/spotify-black-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://music.apple.com'><img src="src/assets/apple-black-ico.svg" className='w-6 h-6' /></a>
-                            <a href='https://www.soundcloud.com'><img src="src/assets/soundcloud-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.spotify.com'><img src="assets/spotify-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://music.apple.com'><img src="assets/apple-black-ico.svg" className='w-6 h-6' /></a>
+                            <a href='https://www.soundcloud.com'><img src="assets/soundcloud-black-ico.svg" className='w-6 h-6' /></a>
                         </div>
                     </div>
                     <div className='border-t border-black'>
@@ -37,9 +37,9 @@ function PodcastPost() {
                         <div className='flex-row justify-between mt-5'>
                             <p className='font-semibold'>Share</p>
                             <div className='flex-row gap-2.5'>
-                                <a href='https://www.instagram.com'><img src="src/assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
-                                <a href='https://www.twitter.com'><img src="src/assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
-                                <a href='https://www.youtube.com'><img src="src/assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.instagram.com'><img src="assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.twitter.com'><img src="assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
+                                <a href='https://www.youtube.com'><img src="assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
                             </div>
                         </div>
                     </div>
@@ -81,25 +81,25 @@ function PodcastPost() {
                 <Link to='/Podcasts'>
                     <div className='flex-row items-center'>
                         <p className='font-semibold'>ALL EPISODES</p>
-                        <img src="src/assets/arrow-right.svg" className='h-4 w-6 ' />
+                        <img src="assets/arrow-right.svg" className='h-4 w-6 ' />
                     </div>
                 </Link>
             </div>
             <div className='flex-row my-25'>
                 <PodcastThumbnail
-                    src='src/assets/podcast-cover1.svg'
+                    src='assets/podcast-cover1.svg'
                     title="The Problem of today's cultural development"
                     date='16.06.2022'
                     duration='1h 20 Min'
                 />
                 <PodcastThumbnail
-                    src='src/assets/podcast-cover2.svg'
+                    src='assets/podcast-cover2.svg'
                     title="The hidden messages of Jack Nielson"
                     date='16.06.2022'
                     duration='60 Min'
                 />
                 <PodcastThumbnail
-                    src='src/assets/podcast-cover3.svg'
+                    src='assets/podcast-cover3.svg'
                     title="Behind the scenes of the street art culture"
                     date='16.06.2022'
                     duration='45 Min'

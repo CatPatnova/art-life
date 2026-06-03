@@ -15,11 +15,11 @@ export function Navbar() {
                     <Link to="/Magazines">Magazines</Link>
                     <Link to="/Authors">Authors</Link>
                     <Link to="/Podcasts">Podcasts</Link>
-                    <img src="src/assets/line.svg" className='w-4' />
-                    <a href='https://www.instagram.com'><img src="src/assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
-                    <a href='https://www.twitter.com'><img src="src/assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
-                    <a href='https://www.youtube.com'><img src="src/assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
-                    <a href='#'><img src="src/assets/rss-black-ico.svg" className='w-6 h-6' /></a>
+                    <img src="assets/line.svg" className='w-4' />
+                    <a href='https://www.instagram.com'><img src="assets/instagram-black-ico.svg" className='w-6 h-6' /></a>
+                    <a href='https://www.twitter.com'><img src="assets/twitter-black-ico.svg" className='w-6 h-6' /></a>
+                    <a href='https://www.youtube.com'><img src="assets/youtube-black-ico.svg" className='w-6 h-6' /></a>
+                    <a href='#'><img src="assets/rss-black-ico.svg" className='w-6 h-6' /></a>
                 </div>
             </div >
         </>
